@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>my first website</title>
+</head>
+<body>
+    <h1>Arita Zandi</h1>
+    <p>hi</p>
+    <p>welcome</p>
+    
+</body>
+</html>
